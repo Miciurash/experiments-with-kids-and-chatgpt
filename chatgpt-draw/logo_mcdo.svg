@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="150" viewBox="0 0 200 150">
-  <path d="M 10 130 Q 50 -20 90 130" fill="none" stroke="#FFC72C" stroke-width="20"/>
-  <path d="M 110 130 Q 150 -20 190 130" fill="none" stroke="#FFC72C" stroke-width="20"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <path d="M 10 80 Q 50 0 90 80" fill="none" stroke="#FFC72C" stroke-width="20"/>
+  <path d="M 110 80 Q 150 0 190 80" fill="none" stroke="#FFC72C" stroke-width="20"/>
 </svg>
